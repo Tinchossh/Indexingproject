@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkindexing_project=self.webpackChunkindexing_project||[]).push([[8891],{3470:e=>{e.exports=JSON.parse('{"permalink":"/Indexingproject/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

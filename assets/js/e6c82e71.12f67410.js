@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkindexing_project=self.webpackChunkindexing_project||[]).push([[7675],{8332:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/Indexingproject/blog/tags/docusaurus","allTagsPath":"/Indexingproject/blog/tags","count":4,"unlisted":false}')}}]);

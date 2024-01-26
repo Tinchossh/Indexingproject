@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkindexing_project=self.webpackChunkindexing_project||[]).push([[4657],{1880:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Indexingproject/blog/tags/facebook","allTagsPath":"/Indexingproject/blog/tags","count":1,"unlisted":false}')}}]);

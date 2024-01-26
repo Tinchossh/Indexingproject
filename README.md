@@ -34,8 +34,8 @@ Need additional assistance? Find contact information for our support and custome
 
 We appreciate contributions from our community! If you have suggestions, corrections, or new ideas, feel free to create a pull request.
 
+## License
 
-
-
+This repository is under the [License Name]. Check the `LICENSE` file for more details.
 
 Thank you for choosing Spanish Solutions for your interpretation, translation, and equipment rental needs! We are committed to providing exceptional language solutions to facilitate effective communication in a diverse and globalized world.

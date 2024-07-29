@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkindexing_project=self.webpackChunkindexing_project||[]).push([[6257],{5729:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Indexingproject/blog/tags/hello","allTagsPath":"/Indexingproject/blog/tags","count":2,"unlisted":false}')}}]);

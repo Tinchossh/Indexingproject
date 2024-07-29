@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkindexing_project=self.webpackChunkindexing_project||[]).push([[3544],{5994:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/indexingproject/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
